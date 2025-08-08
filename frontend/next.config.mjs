@@ -13,6 +13,9 @@ const nextConfig = {
   devIndicators: {
     buildActivity: false,
   },
+  experimental: {
+    esmExternals: 'loose',
+  },
 }
 
 export default nextConfig
