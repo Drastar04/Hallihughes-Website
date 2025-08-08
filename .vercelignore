@@ -1,0 +1,11 @@
+backend/
+*.py
+*.pyc
+__pycache__/
+venv/
+env/
+requirements.txt
+manage.py
+migrations/
+*.sqlite3
+*.log 
